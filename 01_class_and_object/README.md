@@ -22,7 +22,7 @@ In this code:
 ``java
 Student s1 = new Student();``
 
-##🔷 What is a Method?
+## 🔹 What is Method?
 
 A method is a block of code inside a class that performs a specific task.
 It defines the behavior of the object.
@@ -32,3 +32,4 @@ Think of a method like a function—you define once and call many times.
 void displayInfo() {
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
+
