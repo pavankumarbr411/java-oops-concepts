@@ -29,3 +29,9 @@ In Java, polymorphism helps us:
   ```java
   add(int a, int b)
   add(double a, double b)
+  
+ ### Why Polymorphism?
+  - Makes code more flexible and maintainable.
+  - Helps in reusing methods across multiple classes.
+  - Allows a single interface to control different object types.
+
