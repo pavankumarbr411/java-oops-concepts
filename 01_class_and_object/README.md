@@ -32,7 +32,8 @@ Think of a method like a function—you define once and call many times.
 void displayInfo() {
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
-
+```
 ###############################################################################################################################################
+
 
 
